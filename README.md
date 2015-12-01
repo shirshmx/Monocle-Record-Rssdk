@@ -1,5 +1,5 @@
 # Monocle-Record-Rssdk
-Monocle Capture App For full-body scan 
+
 =======================================
 Version: 
 Date: 19-Nov-2015
